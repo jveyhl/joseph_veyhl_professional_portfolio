@@ -5,9 +5,12 @@
 }
 
 body {
+    font-family: Arial;
+    margin: 0;
     display: flex;
     flex-direction: column;
     line-height: 1.3;
+    justify-content: flex-start;
     background-color: #eff0ed;
 }
 
@@ -56,6 +59,13 @@ header nav ul {
 .jnv_img {
     height: 100px;
     width: 100px;
-    border-radius: 25px;
+    border-radius: 100%;
     margin: 10px 15px;
 }
+
+main {
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    flex-grow: 1;
+  }
