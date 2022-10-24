@@ -1,4 +1,4 @@
-# HTML CSS Git Challenge: Code Refactor
+# Advanced CSS Challenge: Professional Portfolio
 
 ## Description
 
@@ -24,11 +24,11 @@ The goal of this challenge is to demonstrate the core skills you've recently lea
 
 N/A
 
-## Screenshot
+## Mock-Up
 
 ![Alt text](./assets/images/02-advanced-css-homework-demo.gif "screenshot")
 
-## Deployed_Application
+## Deployed Application
 
 https://jveyhl.github.io/professional_portfolio/
 
