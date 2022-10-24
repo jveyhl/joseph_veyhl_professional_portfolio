@@ -29,12 +29,6 @@ header {
     color: var(--text-color);
 }
 
-header h1 {
-    font-weight: bold;
-    font-size: 25px;
-    margin-left: 10px;
-}
-
 header nav ul {
     display: flex;
     flex-wrap: wrap;
@@ -115,9 +109,22 @@ main {
 }
 
 figcaption {
+    display: flex;
+    flex-wrap: wrap;
     color: var(--text-color);
 }
+
+#mywork {
+    flex-grow: 100;
+}
 /* end of code for work section */
+
+#contactme ul {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    gap: 10px;
+}
 
 .footer {
     padding: 30px;
@@ -138,14 +145,12 @@ figcaption {
     margin-left: 10px;
 }
 
-/* Find a way to reduce the space between p and h3 in resume maybe put each resume item into a div */
-.resume h3 p {
-    margin-top: 5px;
+.resume h1 {
+    font-size: x-large;
 }
 
-#contactme div ul {
-    display: flex;
-    flex-direction: row;
-    flex-wrap: wrap;
-    gap: 10px;
+.resume h3 {
+    font-size: larger;
 }
+/* end of code for resume.html */
+
