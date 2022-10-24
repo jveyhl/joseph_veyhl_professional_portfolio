@@ -21,6 +21,7 @@ body {
 
 header {
     display: flex;
+    flex-direction: row;
     justify-content: space-between;
     align-items: center;
     flex-wrap: wrap;
@@ -158,3 +159,23 @@ figcaption {
 }
 /* end of code for resume.html */
 
+@media screen and (max-width: 434px){
+    header {
+        flex-direction: column;
+    }
+
+    .jnv_img {
+        display: block;
+        margin: auto;
+        margin-top: 25%;
+    }
+
+    .content-item {
+        align-items: center;
+    }
+
+    .gallery {
+        grid-template-columns: repeat(1, 1fr);
+        grid-template-rows: repeat(2, 150px);
+    }
+}
