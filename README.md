@@ -2,8 +2,8 @@
 
 ## Description
 
-A portfolio of work can showcase your skills and talents to employers looking to fill a part-time or full-time position.
-The goal of this challenge is to demonstrate the core skills you've recently learned:
+A portfolio of work to showcase my skills and talents to employers looking to fill a part-time or full-time position.
+The goal of this challenge is to demonstrate the core skills I've recently learned:
 
 - FlexBox.
 
