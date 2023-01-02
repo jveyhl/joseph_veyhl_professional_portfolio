@@ -26,7 +26,8 @@ N/A
 
 ## Mock-Up
 
-![Alt text](./assets/images/02-advanced-css-homework-demo.gif "screenshot")
+![Alt text](./assets/images/1.png)
+![Alt text](./assets/images/2.png)
 
 ## Deployed Application
 
