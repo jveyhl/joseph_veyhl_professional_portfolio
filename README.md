@@ -31,7 +31,7 @@ N/A
 
 ## Deployed Application
 
-https://jveyhl.github.io/professional_portfolio/
+https://jveyhl.github.io/joseph_veyhl_professional_portfolio/
 
 ## Usage
 
